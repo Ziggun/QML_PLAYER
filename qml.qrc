@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>close.png</file>
+        <file>pause.jpg</file>
+        <file>play.jfif</file>
+        <file>rewind.png</file>
+        <file>stop.png</file>
+        <file>forward.png</file>
+    </qresource>
+</RCC>
